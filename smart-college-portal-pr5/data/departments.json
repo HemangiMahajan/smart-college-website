@@ -1,0 +1,72 @@
+{
+  "departments": [
+    {
+      "id": "aids",
+      "code": "AI&DS",
+      "name": "Artificial Intelligence & Data Science",
+      "description": "Learn data analysis, machine learning and intelligent systems.",
+      "intake": 120,
+      "courses": [
+        {
+          "name": "Artificial Intelligence & Data Science",
+          "credits": 4
+        },
+        {
+          "name": "Data Analytics",
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "id": "comp",
+      "code": "COMP",
+      "name": "Computer Engineering",
+      "description": "Build strong foundations in programming, software and computing.",
+      "intake": 180,
+      "courses": [
+        {
+          "name": "Computer Engineering",
+          "credits": 4
+        },
+        {
+          "name": "Software Engineering",
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "id": "it",
+      "code": "IT",
+      "name": "Information Technology",
+      "description": "Explore web technologies, databases, networks and information systems.",
+      "intake": 180,
+      "courses": [
+        {
+          "name": "Information Technology",
+          "credits": 4
+        },
+        {
+          "name": "Web Technology",
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "id": "entc",
+      "code": "ENTC",
+      "name": "Electronics & Telecommunication",
+      "description": "Study electronics, communication systems and embedded technology.",
+      "intake": 180,
+      "courses": [
+        {
+          "name": "Electronics Engineering",
+          "credits": 4
+        },
+        {
+          "name": "Embedded Systems",
+          "credits": 3
+        }
+      ]
+    }
+  ]
+}

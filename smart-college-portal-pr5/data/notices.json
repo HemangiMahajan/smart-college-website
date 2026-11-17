@@ -1,0 +1,49 @@
+{
+  "notices": [
+    {
+      "id": "N01",
+      "title": "First Year Admission Enquiry",
+      "description": "Students interested in first-year engineering admissions can contact the admission office for guidance.",
+      "date": "2026-11-12",
+      "type": "important",
+      "link": "#/admissions",
+      "linkText": "Read admission details"
+    },
+    {
+      "id": "N02",
+      "title": "Library Hours Updated",
+      "description": "The central library will remain open from 8:30 AM to 6:00 PM on working days.",
+      "date": "2026-11-08",
+      "type": "general",
+      "link": "#/contact",
+      "linkText": "Contact the office"
+    },
+    {
+      "id": "N03",
+      "title": "Department Activities",
+      "description": "Check with your department for the latest academic activities and events.",
+      "date": "2026-11-03",
+      "type": "general",
+      "link": "#/departments",
+      "linkText": "Explore departments"
+    },
+    {
+      "id": "N04",
+      "title": "Student Enquiry Support",
+      "description": "Use the contact form to send your questions to the college team.",
+      "date": "2026-10-29",
+      "type": "general",
+      "link": "#/contact",
+      "linkText": "Send an enquiry"
+    },
+    {
+      "id": "N05",
+      "title": "Faculty Information",
+      "description": "Faculty profiles and areas of expertise are now available on the portal.",
+      "date": "2026-10-21",
+      "type": "general",
+      "link": "#/faculty",
+      "linkText": "Meet our faculty"
+    }
+  ]
+}

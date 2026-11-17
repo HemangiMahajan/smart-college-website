@@ -1,0 +1,77 @@
+{
+  "faculty": [
+    {
+      "id": "F01",
+      "name": "Dr. Anita Kulkarni",
+      "departmentId": "aids",
+      "designation": "Professor and Head",
+      "qualification": "Ph.D. (Computer Science)",
+      "expertise": [
+        "Machine Learning",
+        "Data Visualization"
+      ],
+      "email": "anita.kulkarni@smartcollege.example"
+    },
+    {
+      "id": "F02",
+      "name": "Prof. Rohan Mehta",
+      "departmentId": "aids",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Computer Engineering)",
+      "expertise": [
+        "Web Technologies",
+        "JavaScript",
+        "REST APIs"
+      ],
+      "email": "rohan.mehta@smartcollege.example"
+    },
+    {
+      "id": "F03",
+      "name": "Dr. Rahul Deshmukh",
+      "departmentId": "comp",
+      "designation": "Professor and Head",
+      "qualification": "Ph.D. (Computer Networks)",
+      "expertise": [
+        "Computer Networks",
+        "Cloud Computing"
+      ],
+      "email": "rahul.deshmukh@smartcollege.example"
+    },
+    {
+      "id": "F04",
+      "name": "Dr. Sneha Patil",
+      "departmentId": "it",
+      "designation": "Professor and Head",
+      "qualification": "Ph.D. (Information Security)",
+      "expertise": [
+        "Cyber Security",
+        "Software Engineering"
+      ],
+      "email": "sneha.patil@smartcollege.example"
+    },
+    {
+      "id": "F05",
+      "name": "Prof. Kavita Rao",
+      "departmentId": "entc",
+      "designation": "Associate Professor",
+      "qualification": "M.E. (VLSI and Embedded Systems)",
+      "expertise": [
+        "Embedded Systems",
+        "Internet of Things"
+      ],
+      "email": "kavita.rao@smartcollege.example"
+    },
+    {
+      "id": "F06",
+      "name": "Prof. Amit Joshi",
+      "departmentId": "comp",
+      "designation": "Assistant Professor",
+      "qualification": "M.E. (Computer Engineering)",
+      "expertise": [
+        "Database Systems",
+        "Programming"
+      ],
+      "email": "amit.joshi@smartcollege.example"
+    }
+  ]
+}
